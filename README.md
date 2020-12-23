@@ -1,2 +1,3 @@
+## Intro to Self-Driving Cars Nanodegree
 # MatrixClass
-Intro to Self-Driving Cars Nanodegree -> Module 3 Udacity project
+Module 3
